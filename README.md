@@ -46,6 +46,6 @@ In the VacationPy part of the challenge, the weather data obtained in WeatherPy 
 - `VacationPy.ipynb`: Jupyter notebook for VacationPy.
 
 ## Usage:
-1. Clone the repository to your local machine.
+1. Clone the repository to my local machine.
 2. Follow the instructions provided in the respective Jupyter notebooks to execute the code.
-3. Ensure that you have the required Python libraries installed.
+3. Ensure that I have the required Python libraries installed.
